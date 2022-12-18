@@ -47,7 +47,7 @@ button:focus {
 
 .allBtns {
   margin-top: 15px;
-  width: 40vh;
+  width: 300px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
