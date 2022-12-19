@@ -53,3 +53,13 @@ button:focus {
   justify-content: space-between;
   align-items: center;
 }
+
+@media screen and (max-width: 1000px) {
+  * {
+    zoom: 1.2;
+  }
+
+  .allBtns {
+    margin-bottom: 700px;
+  }
+}
